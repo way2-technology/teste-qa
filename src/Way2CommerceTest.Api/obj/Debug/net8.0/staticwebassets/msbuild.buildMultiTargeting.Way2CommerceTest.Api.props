@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Way2CommerceTest.Api.props" />
+</Project>
