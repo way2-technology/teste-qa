@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Way2CommerceTest.Api.props" />
-</Project>
