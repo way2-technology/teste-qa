@@ -4,7 +4,7 @@ Muito obrigado por reservar um tempo para fazer nosso teste técnico :)
 
 O intuito do teste técnico é avaliar seus conhecimentos com:
 
-1. Documentaçõa de casos de Teste
+1. Documentação de casos de Teste
 2. Implementação de Testes Automatizados
 3. Documentação de Bugs ou Defeitos
 
@@ -12,11 +12,11 @@ O intuito do teste técnico é avaliar seus conhecimentos com:
 
 Nosso time de desenvolvimento implementou uma nova API para gerenciar o processo de Compra dos Produtos dentro do E-Commerce. A aplicação permite que os usuários selecionem os produtos, adicionem ao carrinho e finalizem a compra.
 
-Nosso time é bem ligado com qualidade de software e está procurando um Analista de Qualidade que teste de forma eficaz os endpoints diponibilizados nessa nova API.
+Nosso time é bem ligado com qualidade de software e está procurando um Analista de Qualidade que teste de forma eficaz os endpoints disponibilizados nessa nova API.
 
 Com esse propósito chamamos você que será o responsável por realizar os testes necessários. 
 
-### A aplicação deve cumprir com os requisitos detalhados a continução:
+### A aplicação deve cumprir com os requisitos detalhados a continuação:
 
 1. Retornar requests em formato JSON: A aplicação deve retornar detalhes em formato JSON, seguindo as práticas de API RESTful.
 2. Verificar Estoque ao Adicionar Produto ao Carrinho: Antes de adicionar um produto ao carrinho, a aplicação deve verificar se há estoque disponível do produto.
@@ -35,12 +35,12 @@ Utilizando a linguagem Gherkin, documente cinco cenários de teste para o proces
 Cenário: Obter produto por id
   Dado: que acessei ao endpoint ObterProdutoPorId passando o Id do Produto
   Quando: executo a ação para retornar o Produto
-  Devo: receber uma resposta no padrão RESTFull com formato JSON com código de roeposta 200 e no corpo do resultado devem vir os dados do Produto solicitado
+  Devo: receber uma resposta no padrão RESTFull com formato JSON com código de resposta 200 e no corpo do resultado devem vir os dados do Produto solicitado
 
 # Adicione outros cenários aqui
 ```
 
-### Parte 2: Criação de Testes Automatiçados:
+### Parte 2: Criação de Testes Automatizados:
 
 Automatize dois Casos de teste levantados por você que verifiquem se os requisitos foram atendidos conforme o esperado. Cumpra com os requisitos a seguir:
 
@@ -78,10 +78,10 @@ Documente pelo menos dois bugs ou defeitos seguindo o formato definido a continu
 
 O resultado do desafio deverá ser entregue num documento (word) dividido nas sessões definidas anteriormente:
 
-1. Documentaçõa de casos de Teste
+1. Documentação de casos de Teste
 2. Implementação de Testes Automatizados
 3. Documentação de Bugs ou Defeitos
 
-O prazo de entrega do desafio é de 5 dias corridos a partir da entrega do mesmo.
+O prazo de entrega do desafio é de 5 dias corridos.
 
 **Muito obrigado!**
