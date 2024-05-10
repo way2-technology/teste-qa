@@ -83,5 +83,8 @@ O resultado do desafio deverá ser entregue num documento (word) dividido nas se
 3. Documentação de Bugs ou Defeitos
 
 O prazo de entrega do desafio é de 5 dias corridos.
+Não compartilhe este teste com ninguém.
+Seja original e criativo nas respostas.
+Se ajuste ao conhecimento próprio, somos muito ligados com sinceridade e honestidade.
 
 **Muito obrigado!**
