@@ -12,6 +12,8 @@ O intuito do teste técnico é avaliar seus conhecimentos com:
 
 Nosso time de desenvolvimento implementou uma nova API para gerenciar o processo de Compra dos Produtos dentro do E-Commerce. A aplicação permite que os usuários selecionem os produtos, adicionem ao carrinho e finalizem a compra.
 
+A aplicação está publicada no endereço: <https://as-eway2-api.azurewebsites.net/swagger/index.html>
+
 Nosso time é bem ligado com qualidade de software e está procurando um Analista de Qualidade que teste de forma eficaz os endpoints disponibilizados nessa nova API.
 
 Com esse propósito chamamos você que será o responsável por realizar os testes necessários. 
